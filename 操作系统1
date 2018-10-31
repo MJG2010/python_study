@@ -16,4 +16,13 @@ hardware(硬件)——>os(operation system 操作系统)——>application(应�
     
     缺点：
         每个任务花费时间更长
-        不能实时处理
+        不能实时处理，不适合对实时性要求比较高的任务
+        
+
+通用处理系统：
+    主流的unix系统
+        IBM 的 AIX
+        HP 的 hp-unix
+        sun 的 Solaris
+        
+
